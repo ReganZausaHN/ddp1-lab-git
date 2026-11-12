@@ -1,1 +1,2 @@
-print("Regan Zausa Hulio Nugroho \n2606888396")
+input(str(input("Masukkan Nama :")))
+input(str(input("Masukkan NPM : ")))
